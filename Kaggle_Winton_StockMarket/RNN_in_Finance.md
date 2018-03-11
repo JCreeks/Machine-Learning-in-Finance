@@ -1,3 +1,3 @@
-# Electronic Market and Algotithmic Trading Slides
+# Applying Recurrent Neural Networks in Financial Time Series
 
-This is the page of lecture slides for my *Machine Learning in Finace* Course in [NYC Data Science Academy](https://nycdatascience.com/courses/machine-learning-in-finance/).
+1. Introduction to RNN [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/).
