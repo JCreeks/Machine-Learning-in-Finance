@@ -1,7 +1,7 @@
-# Applying Recurrent Neural Networks in Financial Time Series
+# Tutorial Materials of ARIMA Time Series Model
 
-1. Introduction to RNN [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/).
+1. [Forecasting Stock Returns using ARIMA model (R codes)](https://www.r-bloggers.com/forecasting-stock-returns-using-arima-model/).
 
-2. An awesome demonstration of sample code of [Predict Stock Prices Using RNN](https://lilianweng.github.io/lil-log/2017/07/08/predict-stock-prices-using-RNN-part-1.html) for beginners. [Source code](https://github.com/lilianweng/stock-rnn)
+2. How to select p and q? [Tail_off Versus cut_off](https://stats.stackexchange.com/questions/241914/terms-cut-off-and-tail-off-about-acf-pacf-functions).
 
-3. Another simple python example of [LSTM Neural Network for SP500 Time Series Prediction](https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction).
+
