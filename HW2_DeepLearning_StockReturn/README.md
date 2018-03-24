@@ -4,7 +4,7 @@ Implement one of following codes applying [recurrent neural networks](http://col
 
 [LSTM Neural Network for Time Series Prediction](https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction)
 
-[Applying highway net on Kaggle Winton stock market competition](https://github.com/KhaledSharif/winton-stock-market/blob/master/highway-network.py)
+[Applying highway net on Kaggle Winton stock market competition](https://github.com/KhaledSharif/winton-stock-market/blob/master/highway-network.py)//
 [Data source](https://www.kaggle.com/c/the-winton-stock-market-challenge/data)
 
 
