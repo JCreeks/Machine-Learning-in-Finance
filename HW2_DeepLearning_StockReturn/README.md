@@ -6,6 +6,7 @@ Implement one of following codes applying [recurrent neural networks](http://col
 
 >3.[Applying highway net on Kaggle Winton stock market competition](https://github.com/KhaledSharif/winton-stock-market/blob/master/highway-network.py)
 >>*[Highway Networks](https://arxiv.org/pdf/1505.00387.pdf)
+
 >>*[Data source](https://www.kaggle.com/c/the-winton-stock-market-challenge/data)
 
 
