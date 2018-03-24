@@ -1,1 +1,2 @@
-# [Kaggle The Winton Stock Market Challenge](https://www.kaggle.com/c/the-winton-stock-market-challenge)
+Implement one of following codes applying [recurrent neural networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) in stock return data.
+
