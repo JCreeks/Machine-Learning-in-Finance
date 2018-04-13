@@ -1,4 +1,4 @@
-> 1. Here is a paper on bitcoin predictin for beginners in deep learning. [Bitcoin Price Prediction using Machine Learning](http://trap.ncirl.ie/2496/1/seanmcnally.pdf)
+> 1. Here is a paper on bitcoin prediction for beginners in deep learning. [Bitcoin Price Prediction using Machine Learning](http://trap.ncirl.ie/2496/1/seanmcnally.pdf)
 
 > 2. [Basic Statistics on Bitcoin Market](https://github.com/achab/bitcoin)
 
